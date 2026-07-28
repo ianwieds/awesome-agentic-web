@@ -64,6 +64,7 @@ All entries are open source.
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - Automates browser-based workflows using LLMs and computer vision.
 - [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for multi-agent web automation using your own LLM key.
 - [LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework for developing AI web agents.
+- [ClawBench](https://github.com/reacher-z/ClawBench) - Open benchmark for evaluating browser agents on real-world tasks across live websites with request-level outcome checks and execution traces.
 
 ## Related lists
 
